@@ -3,8 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD-GzHZGQwryj151wClfzlo1gd9vccjvrIiQ&usqp=CAU">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zain-ikram-nawaz" alt="zain-ikram-nawaz" /></a> </p>
-<br>
+
 
 - 🔭 I’m currently working on **Front-End With React/Nextjs Tailwind Css.**
 
