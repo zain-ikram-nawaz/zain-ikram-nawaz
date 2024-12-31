@@ -1,7 +1,7 @@
 ![logo](https://images.unsplash.com/photo-1504805572947-34fad45aed93?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 <h1 align="center">Hi 👋, I'm Zain Ikram N</h1>
-<h3 align="center">I'm Angelos Chalaris, a web developer from Athens, Greece. I love programming both as a job and as a hobby and I spend a lot of time writing code and testing out new ideas. I work mainly with web technologies such as JavaScript, HTML, CSS, Node.js, React /Nextjs.</h3>
+<h3 align="center"> I'm Zain Ikram, a web developer from Karachi, Pakistan I love programming both as a job and as a hobby and I spend a lot of time writing code and testing out new ideas. I work mainly with web technologies such as JavaScript, HTML, CSS, Node.js, React /Nextjs.</h3>
 
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD-GzHZGQwryj151wClfzlo1gd9vccjvrIiQ&usqp=CAU">
 
