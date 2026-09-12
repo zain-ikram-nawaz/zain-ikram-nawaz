@@ -170,8 +170,8 @@ Built with end-to-end booking functionality and a focus on making the process ea
 ## 📫 Connect With Me
 
 * Email: **[zainikram704@gmail.com](mailto:zainikram704@gmail.com)**
-* LinkedIn: https://linkedin.com/in/zain-ikram-nawaz
-* Instagram: https://instagram.com/zain_ikram_nawaz
+* LinkedIn: https://www.linkedin.com/in/zainikramnawaz
+
 
 ---
 
